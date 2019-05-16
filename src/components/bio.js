@@ -40,7 +40,11 @@ function Bio() {
             <p>
               A technical blog for <strong>{author}</strong>'s Lambda Labs project.
               {` `}
+              <a href={`https://twitter.com/${social.twitter}`}>
+                You should follow him on Twitter
+              </a>
             </p>
+
           </div>
         )
       }}
