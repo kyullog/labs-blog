@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/labs-blog"
+  pathPrefix: "/labs-blog",
   siteMetadata: {
     title: `Lambda Labs Trip Planner`,
     author: `Jonathan Dorety`,
